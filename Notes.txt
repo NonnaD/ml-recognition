@@ -1,0 +1,16 @@
+https://dev.mrdbourke.com/zero-to-mastery-ml/introduction-to-numpy/ - book 
+https://github.com/mrdbourke/zero-to-mastery-ml?tab=readme-ov-file   - project git
+https://whimsical.com/getting-started-anaconda-miniconda-and-conda-BD751gt65nKjAD5i1CNEXU - conda instalation chart
+
+
+
+Satrting and setup the project:
+1. Open Anaconda Prompt tool - not a regular terminal 
+2. Navigate to your project folder
+3. Install required packages with dependencies using the following command
+conda create --prefix ./env pandas numpy matplotlib scikit-learn
+4. Install jupyter if you don't have it yet - conda install jupyter
+4.1 Or update conda update notebook 
+4.Activate environment - conda activate 
+5. Run jupyter notebooks project -jupyter notebook
+
